@@ -1,0 +1,21 @@
+
+table{
+    margin-left: auto;border: none;
+}
+.info{
+  border:none;
+  border-bottom:solid;
+  
+}
+.btn1{background-color: black;color: white;
+    border-radius: 20px;
+}
+.btn2{ border:none ; border-radius :30px;
+}
+form{
+    margin-left: 20%; margin-top: 10%;
+}
+body{
+    background-image: url(../собакасобака.jpg);
+}
+
